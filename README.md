@@ -1,4 +1,4 @@
-<p align="center">
+https://github.com/Tencent/WeKnora/blob/main/docs%2FQA.md<p align="center">
   <picture>
     <img src="./docs/images/logo.png" alt="WeKnora Logo" height="120"/>
   </picture>
